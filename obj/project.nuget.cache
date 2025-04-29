@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRt1QxJKH0k+lUBNQfMV0xZSvmvUfnAyk5XOlDdD0WoWV/ss89dVSmoQ98UPwJxGgyf2BIiC/y7bD2yO173Ing==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flipk\\Pulpit\\Studia - dokumenty, pomoce, stare notatki\\II semestr\\Algotytmy i Struktury Danych\\Filip Kuś - gra\\Gra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flipk\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\flipk\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\flipk\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

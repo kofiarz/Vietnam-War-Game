@@ -1,0 +1,50 @@
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\Gra.exe
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\Fortunate Son.wav
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\Gra.deps.json
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\Gra.runtimeconfig.json
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\Gra.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\Gra.pdb
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\Gra.csproj.AssemblyReference.cache
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\Gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\Gra.AssemblyInfoInputs.cache
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\Gra.AssemblyInfo.cs
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\Gra.csproj.CoreCompileInputs.cache
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\Gra.csproj.CopyComplete
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\Gra.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\refint\Gra.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\Gra.pdb
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\Gra.genruntimeconfig.cache
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\obj\Debug\net6.0\ref\Gra.dll
+C:\Users\flipk\Pulpit\Algotytmy i Struktury Danych\Gra\bin\Debug\net6.0\Helicopter.ico
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\Gra.exe
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\Fortunate Son.wav
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\Helicopter.ico
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\Gra.deps.json
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\Gra.runtimeconfig.json
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\Gra.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\Gra.pdb
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\Gra.csproj.AssemblyReference.cache
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\Gra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\Gra.AssemblyInfoInputs.cache
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\Gra.AssemblyInfo.cs
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\Gra.csproj.CoreCompileInputs.cache
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\Gra.csproj.CopyComplete
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\Gra.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\refint\Gra.dll
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\Gra.pdb
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\Gra.genruntimeconfig.cache
+C:\Users\flipk\Pulpit\Studia - dokumenty, pomoce, stare notatki\II semestr\Algotytmy i Struktury Danych\Filip Kuś - gra\obj\Debug\net6.0\ref\Gra.dll
